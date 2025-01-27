@@ -10,7 +10,7 @@ public class Hello  {
 		Hello hello = new Hello();
    System.out.println(hello.i);
       int j=15; //local variable  //stack
-      System.out.println(Hello World.k);  // static  String organisation = "wipro"
+      System.out.println(Arifa.k);  // static  String organisation = "wipro"
       
       System.out.println(j);
 System.out.println("first changes in git ");
